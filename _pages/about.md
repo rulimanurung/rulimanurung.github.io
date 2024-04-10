@@ -11,15 +11,17 @@ I am currently a Staff Computational Linguist at Google Japan. Prior to this, I 
 
 ### Experience
 
-* 2016-present: Computational Linguist, Google Japan
-* 2007-2015: IR/NLP lab co-lead & Computer Science Dept. Head, Universitas Indonesia
-* 2004-2006: Research Fellow, The University of Edinburgh
+* **2016-present:** Computational Linguist, Google Japan
+* **2007-2015:** IR/NLP lab co-lead & Computer Science Dept. Head, Universitas Indonesia
+* **2004-2006:** Research Fellow, The University of Edinburgh
 
 ### Education
 
-* 1998-2003: Ph.D in Artificial Intelligence, The University of Edinburgh
-* 1992-1997: Bachelor of Computer Science, Universitas Indonesia
+* **1998-2003:** Ph.D in Artificial Intelligence, The University of Edinburgh
+* **1992-1997:** Bachelor of Computer Science, Universitas Indonesia
 
 ### Research
  
-See my profile on [Google Scholar](https://scholar.google.com/citations?user=ZAIPPZgAAAAJ) for a list of my publications. In general, my research interests focus on two central topics: (i) Indonesian NLP resources & tools, and (ii) computational language creativity.
+See my profile on [Google Scholar](https://scholar.google.com/citations?user=ZAIPPZgAAAAJ) for a list of my publications. In general, my research interests focus on two central topics:
+* Indonesian NLP resources & tools, and
+* Evolutionary/computational language creativity
