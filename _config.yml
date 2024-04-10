@@ -21,7 +21,7 @@ repository               : "rulimanurung/rulimanurung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Ruli Manurung"
   pronouns         : # example: "she/her"  
   bio              : "Computational Linguist at Google Japan"
