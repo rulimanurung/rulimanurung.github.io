@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Staff Computational Linguist at Google Japan. Prior to this, I spent 10 years as an academic at the Faculty of Computer Science, Universitas Indonesia, where I helped to bootstrap the NLP research lab from scratch to become one of the premier labs in the region.
+I am currently a Staff Software Engineer at Google Ireland after spending 8 years at Google Japan as a Computational Linguist. Prior to this, I spent 10 years as an academic at the Faculty of Computer Science, Universitas Indonesia, where I helped to bootstrap the NLP research lab from scratch to become one of the premier labs in the region.
 
 ### Experience
 
-* **2016-present:** Computational Linguist, Google Japan
+* **2025-present:** Software Engineer, Google Ireland
+* **2016-2024:** Computational Linguist, Google Japan
 * **2007-2015:** IR/NLP lab co-lead & Computer Science Dept. Head, Universitas Indonesia
 * **2004-2006:** Research Fellow, The University of Edinburgh
 
